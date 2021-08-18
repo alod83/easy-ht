@@ -37,7 +37,7 @@ A class used to calculate Hypothesis Tests, including both one sample and two sa
 
 **Methods**
 
-* **check_normality(self,alpha = 0.05)** Check if samples are follow a normal distribution, using the Shapiro test.
+* **check_normality(self,alpha = 0.05)** Check if samples follow a normal distribution, using the Shapiro test.
 * **check_correlation(self, alpha = 0.05)**
         Check if samples are correlated. It can be used only in two samples tests.
 * **check_randomness(self, alpha = 0.05, cutoff='mean')**
