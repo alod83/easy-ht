@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: easy-ht
+Version: 0.0.1
+Summary: A Python package for easy Hypothesis Tests
+Home-page: https://github.com/alod83/easy-ht
+Author: Angelica Lo Duca
+Author-email: angelica.loduca@yahoo.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/alod83/easy-ht/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 
 # Easy Hypothesis Test
 
@@ -155,3 +172,4 @@ This is used to discriminate if using the Chi Square Test or Kolmogorov-Smirnov 
 * bool or None
 True, if the sample follows the specified distribution or the two samples follow the same distribution. 
 False, otherwise. If error, return None.
+

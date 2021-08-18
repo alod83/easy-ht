@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/easy_ht.egg-info/PKG-INFO
+src/easy_ht.egg-info/SOURCES.txt
+src/easy_ht.egg-info/dependency_links.txt
+src/easy_ht.egg-info/requires.txt
+src/easy_ht.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+scipy
+statsmodels>=0.10

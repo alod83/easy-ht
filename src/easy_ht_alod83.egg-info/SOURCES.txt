@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/easy_ht/__init__.py
+src/easy_ht/ht.py
+src/easy_ht_alod83.egg-info/PKG-INFO
+src/easy_ht_alod83.egg-info/SOURCES.txt
+src/easy_ht_alod83.egg-info/dependency_links.txt
+src/easy_ht_alod83.egg-info/requires.txt
+src/easy_ht_alod83.egg-info/top_level.txt
